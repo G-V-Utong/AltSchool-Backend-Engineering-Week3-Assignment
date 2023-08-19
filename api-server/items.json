@@ -1,0 +1,8 @@
+[
+    { "name": "Pencil", "price": "N100", "size": "small", "id": "001" },
+    { "name": "stapler", "price": "N1,500", "size": "medium", "id": "101" },
+    { "name": "ruler", "price": "N300", "size": "medium", "id": "100" },
+    { "name": "pen", "price": "N200", "size": "small", "id": "002" },
+    { "name": "eraser", "price": "N50", "size": "small", "id": "102" },
+    { "name": "book", "price": "N1,300", "size": "large", "id": "200" }
+  ]
